@@ -1,5 +1,5 @@
 ## Live preview
-[https://webdeveloper67.github.io/lorem-generator/]
+You can see the live preview of the project by clicking in this link[https://webdeveloper67.github.io/lorem-generator/](https://webdeveloper67.github.io/lorem-generator/)
 
 ## Available Scripts
 

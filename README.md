@@ -1,5 +1,4 @@
 ## Live preview
-[https://webdeveloper67.github.io/slider-v2/]
 
 ## Available Scripts
 

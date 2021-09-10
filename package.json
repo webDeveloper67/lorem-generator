@@ -1,6 +1,6 @@
 {
   "name": "ipsum-generator",
-  "homepage": "https://webdeveloper67.github.io/lorem-generator/",
+  "homepage": "https://webdeveloper67.github.io/lorem-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

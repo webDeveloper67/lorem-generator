@@ -1,4 +1,5 @@
 ## Live preview
+[https://webdeveloper67.github.io/lorem-generator/]
 
 ## Available Scripts
 
